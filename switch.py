@@ -22,11 +22,11 @@ class Solution:
                         return "Invalid Day"
         
         
-        
-          if __name__ == "__main__":
-            sol = Solution()
-            # print(sol.methodName(input))
-            pass
+if __name__ == "__main__":
+ sol = Solution()
+print(sol.whichweekDay(sol.day))
+            
+pass
       
 
                  
